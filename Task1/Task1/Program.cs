@@ -31,7 +31,7 @@ namespace Task1
             test(y: 14);
             Console.WriteLine();
 
-            test(y: 7, x: 4);
+            test(y: 666, x: 288);
 
             Console.ReadKey();
         }
